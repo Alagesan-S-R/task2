@@ -1,0 +1,131 @@
+div {
+  width: 900px;
+  border: 4px solid blue;
+  padding: 14px;
+  padding-right: 3px;
+  padding-left: 3px;
+  margin: 1px;
+}
+h1{
+  color: green;
+}
+
+b{
+  color: black;
+}
+
+p{
+  color: darkviolet;
+
+}
+
+.ab {
+  color: red;
+}
+
+.ac{
+  color: black;
+  background-color: pink;
+}
+.ad{
+  color: black;
+  background-color: red;
+}
+.ae{
+  text-align: center;
+}
+.af{
+  text-align: left;
+}
+.ag{
+  text-align: right;
+}
+.ah{
+  color: greenyellow;
+  text-align: justify;
+}
+.ai{
+   color: black;
+   text-align-last: center;
+}
+.aj{
+   color:brown ;
+   text-align-last: left;
+}
+.ak{
+  color:brown ;
+  text-align-last: right;
+}
+h3{
+  text-align: right;
+}
+.al{
+  color: darkgreen;
+  font-size:20px;
+  direction: rtl;
+}
+.am{
+  color: darkgreen;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+.an{
+  color: gold;
+  text-align: left;
+  text-decoration: overline dotted red ;
+}
+.ao{
+  color: gold;
+  text-decoration: line-through solid red ;  
+}
+.ap{
+  color: gold;
+  text-decoration: underline double black;
+}
+.aq{
+  color: gold;
+  text-decoration: underline overline wavy darkgrey ;
+}
+.ar{
+  color: yellowgreen;
+  text-transform: uppercase;
+}
+.as{
+  color: yellowgreen;
+  text-transform: lowercase;
+}
+.at{
+  color: yellowgreen;
+  text-transform: capitalize;
+}
+.au{
+  color: orange;
+  text-indent: 80px;
+}
+.av{
+  color: orange;
+  letter-spacing: 14px;
+}
+.aw{
+  color: orange;
+  line-height: 40px;
+}
+.ax{
+  color: orange;
+  word-spacing: 15px;
+}
+.ay{
+  color: orange;
+  white-space: 68px;
+}
+.az{
+  color: black;
+  text-shadow:1px 2px ;
+}
+.aa{
+  text-shadow:3px 3px darkblue;
+}
+.aab{
+  color: brown;
+  text-shadow: 3px 3px 6px darkgreen;
+}
